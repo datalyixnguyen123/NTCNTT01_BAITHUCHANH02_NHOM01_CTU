@@ -4,6 +4,7 @@
 - Thông tin chung:
         Học phần: Nền tảng công nghệ số- CT005
         Giảng viên: Ths. Nguyễn Minh Trung
+
         Sinh viên: Nguyễn Phát Đạt B2504789, Dương Văn Thành Hiệu B2504794, Nguyễn Ngọc Diệp B2504786, Nguyễn Tuấn Anh B2504784
 
 - Mục tiêu bài thực hành:
@@ -19,16 +20,21 @@ Hệ điều hành: Windows 10
 - Nội dung thực hành:
 + Phần 1: Trộn thư dữ liệu từ Excel
  
-Nhiệm vụ 1.1: Tạo tập tin cơ sở dữ liệu
-Nhiệm vụ 1.2: Tạo tập tin chính và trộn thư
-Nhiệm vụ 1.3: Xuất kết quả và trộn thư
+  Nhiệm vụ 1.1: Tạo tập tin cơ sở dữ liệu
+
+  Nhiệm vụ 1.2: Tạo tập tin chính và trộn thư
+
+  Nhiệm vụ 1.3: Xuất kết quả và trộn thư
 
 
 + Phần 2: Tạo mục lục bằng Microsoft Word
 
 + Phần 3: Tạo và định dạng văn bản bằng Google Docs
 
-+ Nhiệm vụ 3.1 – Định dạng Page Setup, Font, Paragraph
-+ Nhiệm vụ 3.2 - Định dạng Page Setup, Font, Paragraph
-+ Nhiệm vụ 3.3 - Tạo và định dạng văn bản
+   Nhiệm vụ 3.1 – Định dạng Page Setup, Font, Paragraph
+
+
+   Nhiệm vụ 3.2 - Định dạng Page Setup, Font, Paragraph
+
+   Nhiệm vụ 3.3 - Tạo và định dạng văn bản
 
